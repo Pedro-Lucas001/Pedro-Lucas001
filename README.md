@@ -1,6 +1,6 @@
 # Olá, eu sou o Pedro Lucas! 👋
 
-**Desenvolvedor Web & Designer Gráfico | Estudante de ADS**
+**Desenvolvedor Web & Designer | Estudante de ADS e me aprofundando em Designer**
 
 Bem-vindo ao meu GitHub! Sou um desenvolvedor focado em criar soluções eficientes e com excelente usabilidade, unindo a lógica da programação com uma forte base em identidade visual. 
 
