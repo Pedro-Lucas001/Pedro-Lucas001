@@ -24,10 +24,6 @@ Bem-vindo ao meu GitHub! Sou um desenvolvedor focado em criar soluções eficien
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img align="center" alt="APIs" src="https://img.shields.io/badge/APIs-000000?style=for-the-badge&logo=json&logoColor=white" />
-  
-  <!-- Design -->
-  <img align="center" alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
-</div>
 
 <br>
 
