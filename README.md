@@ -1,8 +1,8 @@
-# Olá, eu sou o Pedro Lucas! 👋
+# Olá, me chamo Pedro Lucas! 👋
 
-**Desenvolvedor Web & Designer | Estudante de ADS e me aprofundando em Designer**
+**Futuro Desenvolvedor Web & Designer | Estudante de ADS e me aprofundando em Designer**
 
-Bem-vindo ao meu GitHub! Sou um desenvolvedor focado em criar soluções eficientes e com excelente usabilidade, unindo a lógica da programação com uma forte base em identidade visual. 
+Bem-vindo ao meu GitHub! Sou um futuro desenvolvedor focado em criar soluções eficientes e com excelente usabilidade, unindo a lógica da programação com uma forte base em identidade visual. 
 
 ### 🚀 Sobre mim
 - 🎓 Estudando **Análise e Desenvolvimento de Sistemas** (3º Período) na FICR.
