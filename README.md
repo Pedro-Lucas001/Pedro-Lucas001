@@ -8,7 +8,7 @@ Bem-vindo ao meu GitHub! Sou um futuro desenvolvedor focado em criar soluções 
 - 🎓 Estudando **Análise e Desenvolvimento de Sistemas** (3º Período) na FICR.
 - 💻 Participante ativo em programas de residência em tecnologia do **Porto Digital** (Kick Off & Rise Up) e certificado como Desenvolvedor Web pela **Rocketseat**.
 - 🎨 Trago minha experiência como empreendedor e Designer Gráfico para o código, focando sempre na melhor experiência de UI/UX.
-- 📚 Expandindo meus conhecimentos para o desenvolvimento Full-Stack, com foco em **React, Node.js, PHP, criação e consumo de APIs**, além da base sólida em **HTML, CSS, JavaScript, C** e Programação Orientada a Objetos.
+- 📚 Expandindo meus conhecimentos para o desenvolvimento Full-Stack, com foco em **React, Node.js, criação e consumo de APIs**, além da base sólida em **HTML, CSS, JavaScript, C** e Programação Orientada a Objetos.
 
 ### 🛠️ Tecnologias e Ferramentas
 
@@ -21,7 +21,6 @@ Bem-vindo ao meu GitHub! Sou um futuro desenvolvedor focado em criar soluções 
   
   <!-- Back-end & Outros -->
   <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img align="center" alt="APIs" src="https://img.shields.io/badge/APIs-000000?style=for-the-badge&logo=json&logoColor=white" />
 
