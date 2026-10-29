@@ -1,34 +1,40 @@
-# Olá, me chamo Pedro Lucas! 👋
+# Olá, sou o Pedro Lucas! 👋
 
-**Futuro Desenvolvedor Web & Designer | Estudante de ADS e me aprofundando em Designer**
+**Desenvolvedor Web Full-Stack & Designer UI/UX | Fundador da Forjex**
 
-Bem-vindo ao meu GitHub! Sou um futuro desenvolvedor focado em criar soluções eficientes e com excelente usabilidade, unindo a lógica da programação com uma forte base em identidade visual. 
+Bem-vindo ao meu GitHub! Sou um desenvolvedor focado em criar soluções eficientes e com excelente usabilidade, unindo a lógica da programação a uma forte base em identidade visual e design de interfaces.
 
-### 🚀 Sobre mim
-- 🎓 Estudando **Análise e Desenvolvimento de Sistemas** (3º Período) na FICR.
-- 💻 Participante ativo em programas de residência em tecnologia do **Porto Digital** (Kick Off & Rise Up) e certificado como Desenvolvedor Web pela **Rocketseat**.
-- 🎨 Trago minha experiência como empreendedor e Designer Gráfico para o código, focando sempre na melhor experiência de UI/UX.
-- 📚 Expandindo meus conhecimentos para o desenvolvimento Full-Stack, com foco em **React, Node.js, criação e consumo de APIs**, além da base sólida em **HTML, CSS, JavaScript, C** e Programação Orientada a Objetos.
+## 🚀 Sobre mim
 
-### 🛠️ Tecnologias e Ferramentas
+* 🎓 Estudante de Análise e Desenvolvimento de Sistemas (3º Período) na FICR.
+* 💼 Fundador e Desenvolvedor Web na **Forjex**, especializado na criação de websites personalizados, landing pages e software web.
+* 💻 Experiência no desenvolvimento de ecossistemas completos, incluindo Sistemas PDV, automação de atendimento e gestão de inventário.
+* 🎨 Trago a minha experiência como empreendedor e Designer Gráfico para o código, focando sempre na melhor experiência de UI/UX.
+* 🏆 Participante ativo em programas de residência em tecnologia do Porto Digital (Squads 45 e 21).
 
-<div style="display: inline_block"><br>
-  <!-- Front-end -->
-  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  
-  <!-- Back-end & Outros -->
-  <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img align="center" alt="APIs" src="https://img.shields.io/badge/APIs-000000?style=for-the-badge&logo=json&logoColor=white" />
+## 🛠️ Tecnologias e Ferramentas
 
-<br>
+### Frontend & UI/UX Design
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
-### 📊 Estatísticas do GitHub
+### Backend & Base de Dados
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Pedro-Lucas001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Lucas001&layout=compact&langs_count=8&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pedro-Lucas001&show_icons=true&theme=tokyonight&locale=pt-pt" alt="Estatísticas do Pedro" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Lucas001&layout=compact&theme=tokyonight&locale=pt-pt" alt="Linguagens mais usadas" />
 </div>
+
+## 📫 Como contactar-me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-lucas-a616ba248)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pdr.martins_?igsh=MTF3b2IzZW1lZzZ2hsNA==)
