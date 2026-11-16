@@ -38,6 +38,11 @@ jobs:
           token: ${{ github.token }}
           fail_on_error: true
 
+      - name: Deixar os dados visíveis sem animação
+        run: |
+          sed -i '/<\/style>/i\          .stagger { opacity: 1 !important; animation: none !important; }' \
+            assets/github-stats.svg assets/github-languages.svg
+
       - name: Publicar cartões atualizados
         run: |
           git add assets/github-stats.svg assets/github-languages.svg
