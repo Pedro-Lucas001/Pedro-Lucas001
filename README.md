@@ -12,7 +12,7 @@
 
 Sou desenvolvedor web full-stack, designer UI/UX e fundador da **Forjex**. Crio sites, landing pages e sistemas web sob medida. Minha experiência com design gráfico e identidade visual também orienta meu trabalho no código, da hierarquia de uma página ao fluxo de um pedido no ponto de venda.
 
-- **Formação** · Análise e Desenvolvimento de Sistemas, 3º período, na FICR.
+- **Em Formação** · Análise e Desenvolvimento de Sistemas, 3º período, na FICR.
 - **Residência em tecnologia** · Porto Digital, squads 45 e 21.
 - **Áreas de atuação** · Desenvolvimento web, design de interfaces, gestão de estoque e automação de atendimento.
 
