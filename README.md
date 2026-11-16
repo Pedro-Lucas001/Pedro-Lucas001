@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner-pedro-lucas.png" width="100%" alt="Pedro Lucas. Desenvolvedor full-stack, designer de interfaces e fundador da Forjex.">
+  <img src="./assets/banner-pedro-lucas.png" width="100%" alt="Pedro Lucas. Futuro Desenvolvedor full-stack, designer e fundador da Forjex.">
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ## Sobre mim
 
-Sou desenvolvedor web full-stack, designer UI/UX e fundador da **Forjex**. Crio sites, landing pages e sistemas web sob medida. Minha experiência com design gráfico e identidade visual também orienta meu trabalho no código, da hierarquia de uma página ao fluxo de um pedido no ponto de venda.
+Sou um futuro desenvolvedor web full-stack, designer UI/UX e fundador da **Forjex**. Crio sites, landing pages e sistemas web sob medida. Minha experiência com design gráfico e identidade visual também orienta meu trabalho no código, da hierarquia de uma página ao fluxo de um pedido no ponto de venda.
 
 - **Em Formação** · Análise e Desenvolvimento de Sistemas, 3º período, na FICR.
 - **Residência em tecnologia** · Porto Digital, squads 45 e 21.
