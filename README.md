@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Pedro-Lucas001/Forjex"><img src="https://img.shields.io/badge/Forjex-FF782D?style=for-the-badge&amp;logo=github&amp;logoColor=181A1E" alt="Forjex no GitHub"></a>
+  <a href="https://forjex-dev.vercel.app/"><img src="https://img.shields.io/badge/Forjex-FF782D?style=for-the-badge&amp;logo=github&amp;logoColor=181A1E" alt="Forjex no GitHub"></a>
   <a href="https://www.linkedin.com/in/pedro-lucas-a616ba248"><img src="https://img.shields.io/badge/LinkedIn-252A32?style=for-the-badge" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/pdr.martins_/"><img src="https://img.shields.io/badge/Instagram-252A32?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram"></a>
 </p>
