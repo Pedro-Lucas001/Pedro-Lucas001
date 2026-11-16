@@ -57,9 +57,3 @@ Node.js · Java · PHP · Supabase · SQL Server
   <img alt="Cobrinha animada percorrendo as contribuições de Pedro Lucas"
        src="https://raw.githubusercontent.com/Pedro-Lucas001/Pedro-Lucas001/output/snake.svg">
 </picture>
-
-[Ver calendário de contribuições no GitHub →](https://github.com/Pedro-Lucas001#js-contribution-activity)
-
-## Contato
-
-Quer conversar sobre um projeto web, UI/UX ou uma colaboração? Me chama no [LinkedIn](https://www.linkedin.com/in/pedro-lucas-a616ba248) ou no [Instagram](https://www.instagram.com/pdr.martins_/).
