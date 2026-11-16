@@ -1,0 +1,55 @@
+name: Atualizar cartões do perfil
+
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/card-stats.yml']
+  schedule:
+    - cron: '41 6 * * *'
+  workflow_dispatch:
+
+concurrency: github-profile-cards-${{ github.ref }}
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Gerar cartão de estatísticas
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_rank=true&locale=pt-br&bg_color=171A20&title_color=FF995D&text_color=E5E7EB&icon_color=FF995D&border_color=3A404B&disable_animations=true
+          path: assets/github-stats.svg
+          token: ${{ github.token }}
+          fail_on_error: true
+
+      - name: Gerar gráfico de linguagens
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=donut&langs_count=6&locale=pt-br&bg_color=171A20&title_color=FF995D&text_color=E5E7EB&border_color=3A404B&disable_animations=true
+          path: assets/github-languages.svg
+          token: ${{ github.token }}
+          fail_on_error: true
+
+      - name: Deixar os dados visíveis sem animação
+        run: |
+          sed -i '/<\/style>/i\          .stagger { opacity: 1 !important; animation: none !important; }' \
+            assets/github-stats.svg assets/github-languages.svg
+
+      - name: Publicar cartões atualizados
+        run: |
+          git add assets/github-stats.svg assets/github-languages.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git -c user.name='github-actions[bot]' \
+              -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
+              commit -m 'Atualizar cartões do perfil'
+          git push
