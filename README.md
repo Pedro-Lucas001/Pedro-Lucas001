@@ -51,4 +51,9 @@ Node.js · Java · PHP · Supabase · SQL Server
   <img src="https://streak-stats.demolab.com/?user=Pedro-Lucas001&amp;locale=pt_BR&amp;background=171A20&amp;border=3A404B&amp;ring=FF995D&amp;fire=FF995D&amp;stroke=3A404B&amp;currStreakNum=F4F5F7&amp;sideNums=F4F5F7&amp;currStreakLabel=FF995D&amp;sideLabels=E5E7EB&amp;dates=B5BEC9" width="495" alt="Total de contribuições e sequências de atividade no GitHub">
 </p>
 
-[Ver calendário de contribuições no GitHub →](https://github.com/Pedro-Lucas001#js-contribution-activity)
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Pedro-Lucas001/Pedro-Lucas001/output/snake-dark.svg">
+  <img alt="Cobrinha animada percorrendo as contribuições de Pedro Lucas"
+       src="https://raw.githubusercontent.com/Pedro-Lucas001/Pedro-Lucas001/output/snake.svg">
+</picture>
