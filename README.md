@@ -43,8 +43,8 @@ Node.js · Java · PHP · Supabase · SQL Server
 ## Atividade no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pedro-Lucas001&amp;show_icons=true&amp;locale=pt-br&amp;bg_color=171A20&amp;title_color=FF995D&amp;text_color=E5E7EB&amp;icon_color=FF995D&amp;border_color=3A404B" width="395" alt="Estatísticas de Pedro Lucas no GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Lucas001&amp;layout=donut&amp;langs_count=6&amp;locale=pt-br&amp;bg_color=171A20&amp;title_color=FF995D&amp;text_color=E5E7EB&amp;border_color=3A404B" width="330" alt="Distribuição de linguagens nos repositórios públicos">
+  <img src="./assets/github-stats.svg" height="195" alt="Estatísticas de Pedro Lucas no GitHub">
+  <img src="./assets/github-languages.svg" height="195" alt="Distribuição de linguagens nos repositórios públicos">
 </p>
 
 <p align="center">
@@ -57,3 +57,9 @@ Node.js · Java · PHP · Supabase · SQL Server
   <img alt="Cobrinha animada percorrendo as contribuições de Pedro Lucas"
        src="https://raw.githubusercontent.com/Pedro-Lucas001/Pedro-Lucas001/output/snake.svg">
 </picture>
+
+[Ver calendário de contribuições no GitHub →](https://github.com/Pedro-Lucas001#js-contribution-activity)
+
+## Contato
+
+Quer conversar sobre um projeto web, UI/UX ou uma colaboração? Me chama no [LinkedIn](https://www.linkedin.com/in/pedro-lucas-a616ba248) ou no [Instagram](https://www.instagram.com/pdr.martins_/).
